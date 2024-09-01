@@ -1,6 +1,7 @@
 # 📦 매지리민들을 위한 공구 매칭 서비스, 모구 📦
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b97e62c7-ba06-4e3f-84e8-36cf29ddd8a1" width="20%" height="30%">
+![image](https://github.com/user-attachments/assets/7ae37f69-26d0-4b2e-b785-04e4a90c7b4a)
+
 
 ## 모든 연세인을 위한 공구, 모구
 매지리에서 만족스러운 공동구매를 하려는 연세대학교 미래캠퍼스 주변 자취생 및 기숙사생에게 원하는 시간에 원하는 양의 물품을 가져갈 수 있도록 공구 의사가 맞는 학생들을 연결하여 중개해주는 앱
