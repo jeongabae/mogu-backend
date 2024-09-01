@@ -1,6 +1,6 @@
 # 📦 매지리민들을 위한 공구 매칭 서비스, 모구 📦
-<p align="center">
-![image](https://github.com/user-attachments/assets/7ae37f69-26d0-4b2e-b785-04e4a90c7b4a)
+![image](https://github.com/user-attachments/assets/a3b02fe5-a663-4bfd-9b0a-afbb43cc66df)
+
 
 
 ## 모든 연세인을 위한 공구, 모구
@@ -75,6 +75,8 @@
 - Infrastructure : AWS EC2
 - Database : AWS RDS(Mysql)
 
+## 시연 영상
+https://youtu.be/FJaiCGogSds
 ## 프로젝트를 진행하면서 생긴 문제점 및 해결방안
 - 개발 과정에서 사소한 에러 문제
 - github에서 파일을 합치는 과정에서의 충돌
@@ -133,4 +135,7 @@
 
 ## 📞Contact
 Email : hyerim712@yonsei.ac.kr
+
+## FrontEnd github
+https://github.com/YonseiDOIT/Mogu
   
