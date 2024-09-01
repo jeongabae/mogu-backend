@@ -69,7 +69,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Springboot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-- Language : Java Script
+- Language : Java, Java Script
 - Frontend : React Native
 - Backend : Spring Boot
 - Infrastructure : AWS EC2
