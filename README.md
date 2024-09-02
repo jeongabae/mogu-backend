@@ -14,8 +14,6 @@
 - 🙋🏻‍♂️ 배진우 FE | UI 구현, 사용자 인터랙션 구현, 기능 구현, API 연동
 - 🙋🏻‍♀️ 전가배 BE | 로직, ERD 설계, 데이터베이스 관리, 인증 및 서버, API 설계
 
-💫 Team Goals
-- 정해진 기간 내 MVP 구현하기
 
 ## 소통 채널
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -90,7 +88,7 @@ https://youtu.be/FJaiCGogSds
 ![image](https://github.com/user-attachments/assets/6fa3b087-8946-4078-bc7b-ff96dc35fbaf)
 
 ## 📞Contact
-Email : gabea52@naver.com
+Email :gabea52@naver.com
 
 ## FrontEnd github
 https://github.com/YonseiDOIT/Mogu
