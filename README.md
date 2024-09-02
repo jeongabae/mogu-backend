@@ -49,7 +49,16 @@
   - 모집 : 공구 글 직접 등록하여 함께 공구할 참여자 모집하기
   - 참여자 관리 : 주최자가 단계별로 공구를 진행하는 과정이 용이하도록 참여자들의 참여수량 및 참여자 정보 리스트업하여 보여주기
   - 찜 : 현재 진행중인 공동구매 중 관심있는 상품을 관심공구로 등록
+
+#### 3.1 스웨거
 ![image](https://github.com/user-attachments/assets/a540e2d0-b426-44a4-8eac-1853fc4b5b3f)
+
+<img width="1086" alt="image" src="https://github.com/user-attachments/assets/056b40fe-3c49-4fb6-aa52-d1087dfd8926">
+<img width="1085" alt="image" src="https://github.com/user-attachments/assets/7f90171a-79fd-4180-851f-a55be9a006b5">
+<img width="1085" alt="image" src="https://github.com/user-attachments/assets/3568b21d-076e-4518-b7f1-a05bf7ecfe78">
+<img width="1086" alt="image" src="https://github.com/user-attachments/assets/66bda9ce-11c4-4ec0-b993-a064ac0caeea">
+<img width="1085" alt="image" src="https://github.com/user-attachments/assets/23728433-2311-4d83-802c-4f2c947684be">
+
 
 #### 4. 플로우 차트
 ![image](https://github.com/user-attachments/assets/b9c4b410-f947-4731-805b-262310533d74)
