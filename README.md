@@ -24,6 +24,7 @@
   - 공구 수정
   - 공구 상태 변경
   - 공구 삭제
+  - 매일 자정(0시)에 공구 마감일 여부 확인하여 마감일이면 공구 마감으로 공구 상태 변경(스케줄러 이용)
 - 공구 참여 관련 기능
   - 공구 참여
   - 특정 공구의 공구 참여자 정보 조회
@@ -49,8 +50,9 @@
   - 회원 정보 조회
   - 회원 닉네임 수정, 비밀번호 수정, 전화번호 수정
   - 회원 비밀번호 일치 여부 확인(for 정보 수정)
-
-회원 탈퇴
+  - 회원 탈퇴
+ 
+    
 ## 소통 채널
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
