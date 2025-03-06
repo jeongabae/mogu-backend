@@ -62,6 +62,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 배경
+![01-1](https://github.com/user-attachments/assets/2f4155c8-13a6-4481-909c-aa98151ff959)
+![01-2](https://github.com/user-attachments/assets/bff11112-00aa-4983-8c41-9c95c6310051)
+
 - 학교 주변에 거주하는 자취생과 기숙사생은 주변에 오프라인 매장이 없어 물품을 구매하는 데 불편함을 겪음. 배송시킬 때도 더 이득이 되는 방향으로 구매하려면 대량으로 구매해야 하며 결국 비용적인 측면에서 부담감을 느낌
 - 물품 배송을 시키면서 소비와 어쩔 수 없는 매지리 특성에 불편함을 느낌
 - 물품을 수령받은 이후 물품 대량 물품을 보관할 기간이나 공간이 충분하지 않아 보관/ 추후의 처리 측면에서도 문제 발생 가능
@@ -79,14 +82,24 @@
 
   (4) 갑작스럼게 생필품을 구매하려면 자취방으로부터 꽤 떨어진 편의점에 가야했기에 불편했음
 #### 2. 타겟 및 목표
+![02-2](https://github.com/user-attachments/assets/9c335602-d6b6-4e84-a3e4-130a29e204ef)
+![02-3](https://github.com/user-attachments/assets/2eb1f655-8efa-4611-8d76-61978ce4c15b)
+
   🧑‍🤝‍🧑학교 주변에서 상품(생필품, 음식)을 배송시키는 자취생 & 기숙사생, 저렴하게 필요한 만큼의 상품을 가지고 싶어하는 학생들
   
   📍‘모구’를 통해 학교 주변 자취생&기숙사생들이 원활하게 공동구매할 수 있도록 연결해주기
 
 #### 3. 메인 기능
+![02-1](https://github.com/user-attachments/assets/51c956eb-41ff-45ae-8aa3-a61d974c2dd8)
+![03-5](https://github.com/user-attachments/assets/3d478aa6-2467-4041-ac52-138642d06931)
   - 검색 : 관심있는 진행중인 공구 찾아보기
+![03-6](https://github.com/user-attachments/assets/d287f1aa-22f3-401c-bc01-69676ea9f6b5)
   - 참여 : 공구 참여하기
+![03-7](https://github.com/user-attachments/assets/90c8ed0e-0c40-491f-8e3c-5c8a22407d01)
+
   - 모집 : 공구 글 직접 등록하여 함께 공구할 참여자 모집하기
+![03-8](https://github.com/user-attachments/assets/98031bb6-29a8-4bca-be79-045568366ddc)
+
   - 참여자 관리 : 주최자가 단계별로 공구를 진행하는 과정이 용이하도록 참여자들의 참여수량 및 참여자 정보 리스트업하여 보여주기
   - 찜 : 현재 진행중인 공동구매 중 관심있는 상품을 관심공구로 등록
 
@@ -108,7 +121,8 @@
 ![image](https://github.com/user-attachments/assets/01fd857c-2bed-4174-b7e8-d384f1fd2966)
 
 ## 💻 아키텍쳐
-![image](https://github.com/user-attachments/assets/e465a234-cd6b-4c73-9d11-3704384a4a73)
+![03-4](https://github.com/user-attachments/assets/fca22edf-1bcd-4ea1-91c3-ac81c91c3b8f)
+
 
 ## 🛠 기술 스택
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
