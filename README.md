@@ -1,4 +1,6 @@
 # 📦 자취생&기숙사생들을 위한 공구 매칭 서비스, 모구 📦
+![매지리민들을 위한 공구 매칭 서비스, 모구_a2 3](https://github.com/user-attachments/assets/49030e81-4534-46a4-9909-7cdc08238bd2)
+
 ![image](https://github.com/user-attachments/assets/a3b02fe5-a663-4bfd-9b0a-afbb43cc66df)
 
 
